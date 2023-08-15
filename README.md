@@ -35,3 +35,5 @@ Microsoft and any contributors reserve all others rights, whether under their re
 or trademarks, whether by implication, estoppel or otherwise.
 
 [![Build Status](https://dev.azure.com/prashantsharma1090/TestProject/_apis/build/status%2Fprashantsharma1090.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/prashantsharma1090/TestProject/_build/latest?definitionId=2&branchName=master)
+
+[![Build Status](https://dev.azure.com/prashantsharma1090/TestProject/_apis/build/status%2Fprashantsharma1090.pipelines-dotnet-core?branchName=master&jobName=Job)](https://dev.azure.com/prashantsharma1090/TestProject/_build/latest?definitionId=2&branchName=master)
